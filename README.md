@@ -8,18 +8,13 @@
 
 ### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd rl-uncontrolled-intersections
-   ```
 
-2. **Install dependencies:**
+**Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set up environment:**
+**Set up environment:**
    ```bash
    export AAE_PATH=results/ae_model.pkl  # Path to trained autoencoder
    ```
